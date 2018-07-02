@@ -1,7 +1,7 @@
 class ClientsController < ApplicationController
   
  
-
+layout 'landing'
   
 
   # GET /clients/new
